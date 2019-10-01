@@ -23,8 +23,8 @@ apiVersion: v1
 kind: Service
 metadata:
   labels:
-    name: springboot
-  name: springboot
+    name: springboottest
+  name: springboottest
 spec:
   type: NodePort
   ports:
